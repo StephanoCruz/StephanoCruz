@@ -8,8 +8,8 @@
 
 <div>
     <a href="https://beacons.ai/StephanoCruz">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=StephanoCruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanoCruz&layout=compact&langs_count=16&theme=dark"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=StephanoCruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanoCruz&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display; inline_block"><br>
