@@ -7,9 +7,12 @@
 - 📞 ou pelo Whatsapp: (11)94947-7189
 
 <div>
-    <a href="https://beacons.ai/StephanoCruz">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=StephanoCruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephanoCruz&layout=compact&langs_count=16&theme=dark"/>
+    <a href="https://github.com/StephanoCruz/github-readme-stats">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=StephanoCruz" />
+    </a>
+    <a href="https://github.com/StephanoCruz/convoychat">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=StephanoCruz&layout=compact&langs_count=8&card_width=320" />
+    </a>
 </div>
 
 <div style="display; inline_block"><br>
