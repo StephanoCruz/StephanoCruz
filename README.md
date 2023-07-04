@@ -1,6 +1,7 @@
 ### Olá Pessoal eu sou o Stephano da Cruz 👋
 
-- 🔭 Product Owner.
+- 🔭 Formado em Técnologia em Analises e Desenvolvimento de Sistemas.
+- 🔭 Pós em Métodologias Ágeis e Devops.
 - 🌱 Estou estudando Javascript,React e Node.
 - 🤔 No momento sei Html5,Css3,Jira,Confluence e Outsystems!
 - 📫 Contate-me no email: stephano.cruz@hotmail.com
