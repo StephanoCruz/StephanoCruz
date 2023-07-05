@@ -3,7 +3,7 @@
 - 🔭 Formado em Técnologia em Analises e Desenvolvimento de Sistemas.
 - 🔭 Pós em Métodologias Ágeis e Devops.
 - 🌱 Estou estudando Javascript,React e Node.
-- 🤔 No momento sei Html5,Css3,Jira,Confluence e Outsystems!
+- 🤔 No momento sei Html5,Css3,Jira,Confluence,Outsystems e um pouco de javascript(em estudo)!
 - 📫 Contate-me no email: stephano.cruz@hotmail.com
 - 📞 ou pelo Whatsapp: (11)94947-7189
 
