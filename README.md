@@ -8,12 +8,10 @@
 - 📞 ou pelo Whatsapp: (11)94947-7189
 
 <div>
-    <a href="https://github.com/StephanoCruz/github-readme-stats">
-        <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=StephanoCruz" />
-    </a>
-    <a href="https://github.com/StephanoCruz/convoychat">
-      <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=StephanoCruz&layout=compact&langs_count=8&card_width=320" />
-    </a>
+    
+  <img height=180 align= "center" src= "https://github-readme-stats.vercel.app/api?username=StephanoCruz&show_icons=true&theme=radical" />
+  <img height=180 align= "center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=StephanoCruz&layout=donut" />
+    
 </div>
 
 <div style="display; inline_block"><br>
